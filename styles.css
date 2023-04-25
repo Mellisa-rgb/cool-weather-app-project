@@ -32,7 +32,7 @@ input.form-control {
 #button-addon2 {
   display: block;
   margin: 50px 0px;
-  background-color: blue;
+  background-color: rgb(38, 38, 235);
   color: white;
 }
 #current-btn {
